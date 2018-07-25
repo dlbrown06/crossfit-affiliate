@@ -1,0 +1,17 @@
+.home {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  .home-icon {
+    font-size: 15rem;
+    color: #aaa;
+  }
+
+  .home-welcome {
+    color: #666;
+    font-size: 25px;
+    margin-top: 3rem;
+  }
+}
